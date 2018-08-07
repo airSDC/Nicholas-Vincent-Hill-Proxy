@@ -1,4 +1,4 @@
-# airFEC - Front End Capstone
+# airSDC - System Design Capstone
 
 > This is a single item page for a popular online marketplace and hospitality service for people to lease or rent short-term lodging.
 
