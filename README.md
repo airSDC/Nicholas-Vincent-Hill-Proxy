@@ -21,7 +21,7 @@
 
 ## Technology stack
 
-> A MERN-stack app built with the philosophy of continuously-integrated, test-driven development and micro-service architecture.
+> This is a MERN-stack system-design case study to load test servers/databases
 
 - CSS
 - HTML5
